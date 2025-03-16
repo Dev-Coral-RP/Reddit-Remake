@@ -26,5 +26,5 @@ Currently, this project does **not** have a backend, but backend functionality w
 
 ### 1. Clone the repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/reddit-clone.git
+git clone https://github.com/Dev-Coral-RP/reddit-remake.git
 cd reddit-clone
